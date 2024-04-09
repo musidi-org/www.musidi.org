@@ -1,3 +1,5 @@
 # [Musidi](https://www.musidi.org)
 
-This is a public repository for issues and discussions.
+Thank you for helping Musidi:
+ - Report an [issue](https://github.com/musidi-org/www.musidi.org/issues/new/choose)
+ - Join a [discussion](https://github.com/musidi-org/www.musidi.org/discussions).
